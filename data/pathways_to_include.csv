@@ -1,0 +1,38 @@
+pathway,pathway_name,group_name,group_abbreviation,full_group_name
+acetogenesis,Acetogenesis,Acetogenesis,Acetogen,Acetogenesis
+hydrogen_oxidation_dark,H ox. Dark,H ox. dark,H ox dark,Hydrogen oxidation Dark
+anoxygenic_photoautotrophy_hydrogen_oxidation,Anox. photo. H ox.,Anox. photo. H ox.,Anox phot H,"Anoxygenic photoautotrophy, hydrogen oxidation"
+anoxygenic_photoautotrophy_iron_oxidation,Anox. photo. Fe ox.,Anox. photo. Fe ox.,Anox phot Fe,"Anoxygenic photoautotrophy, iron oxidation"
+iron_oxidation_dark,Fe ox. Dark,Fe ox. dark,Fe ox dark,Iron oxidation dark
+iron_reduction,Fe red. ,Fe red.,Fe red,Iron reduction
+nitrification,Nitrification,Nitrification,Nitrific,Nitrification
+denitrification,Denitrification,Denitrification,Denitrific,Denitrification
+nitrogen_fixation,Nitrogen fix.,Nitrogen fix.,N-fix,Nitrogen fixation
+anoxygenic_photoautotrophy_sulfur_oxidation,Anox. photo. S ox.,Anox. photo. S ox.,Anox phot S,"Anoxygenic photoautotrophy, sulfur oxidation"
+cellulose_degradation,Cellulose degr.,Cclx degraders,CCLX deg,"Degradation of cellulose, chitin, lignin, xylan"
+chitin_degradation,Chitin degr.,Cclx degraders,CCLX deg,"Degradation of cellulose, chitin, lignin, xylan"
+ligninolysis,Lignin degr.,Cclx degraders,CCLX deg,"Degradation of cellulose, chitin, lignin, xylan"
+xylan_degradation,Xylan degr.,Cclx degraders,CCLX deg,"Degradation of cellulose, chitin, lignin, xylan"
+sulfide_oxidation_dark,Sulfide ox. dark,"Sulfide, sulfur, thiosulfate ox.",H2S-S-th ox,"Oxidation of sulfide, sulfur, thiosulfate"
+sulfur_oxidation_dark,Sulfur ox. dark,"Sulfide, sulfur, thiosulfate ox.",H2S-S-th ox,"Oxidation of sulfide, sulfur, thiosulfate"
+thiosulfate_oxidation_dark,Thiosulfate ox. dark,"Sulfide, sulfur, thiosulfate ox.",H2S-S-th ox,"Oxidation of sulfide, sulfur, thiosulfate"
+sulfate_reduction,Sulfate red. ,"Sulfate, thiosulfate red.",S-thio red,Sulfate and thiosulfate reduction
+thiosulfate_reduction,Thiosulfate red.,"Sulfate, thiosulfate red.",S-thio red,Sulfate and thiosulfate reduction
+fumarate_reduction,Fumarate red.,Fumarate red.,Fumar red,Fumarate reduction
+methanogenesis_acetoclastic,Methanogenesis [aceto],Methanogenesis,CH4 gen,Methanogenesis
+methanogenesis_H2CO2,Methanogenesis [H2CO2],Methanogenesis,CH4 gen,Methanogenesis
+methanogenesis,Methanogenesis,Methanogenesis,CH4 gen,Methanogenesis
+methanol_oxidation,Methanol ox.,Methylotrophy,Methylotrop,Methylotrophy
+methane_oxidation,Methane ox.,Methylotrophy,Methylotrop,Methylotrophy
+methylotrophy,Methylotrophy,Methylotrophy,Methylotrop,Methylotrophy
+fermentation,Fermentation,Fermentation,Fermentat,Fermentation
+aerobic_chemo_heterotrophy,Aerob. chemo. hetero.,Aerob. chemo. hetero.,Aero hetero,Aerobic chemoheterotrophy
+arsenate_reduction,Arsenate red.,"As, Mn, Se, U red.",AsMnSeU red,"As, Mn, Se, U reduction"
+selenate_reduction,Selenate red.,"As, Mn, Se, U red.",AsMnSeU red,"As, Mn, Se, U reduction"
+uranyl_reduction,Uranyl red.,"As, Mn, Se, U red.",AsMnSeU red,"As, Mn, Se, U reduction"
+photoheterotrophy,Photo. hetero.,Photo. hetero.,Phot hetero,Photoheterotrophy
+oxygenic_photoautotrophy,Ox. photo. auto.,Ox. photo. auto.,O-gen phot,Oxygenic photoautotrophy
+manganese_oxidation,Manganese ox.,Manganese ox.,Mn ox,Managenese oxidation
+manganese_reduction,Manganese red.,"As, Mn, Se, U red.",AsMnSeU red,"As, Mn, Se, U reduction"
+cyanobacterial_nitrogen_fixation,Nitrogen fix. [cyano],Cyano. nitrogen fix.,Cyan N-fix,Cyanobacterial nitrogen fixation
+nitrogen_fixation_other,Nitrogen fix. Other,Other nitrogen fix.,Other N-fix,Other nitrogen fixation
